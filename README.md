@@ -43,8 +43,7 @@ In the notebook, in sequence, there are 3 main sections and multiple subsections
 ## Model Information
 ### Architecture
 ![Architecture](Architecture.png)
-### Performance
-![Performance](Performance.png)
+
 
 ## Credit
 Jack Logan [jwl8194@nyu.edu](https://github.com/jwlogan5)
